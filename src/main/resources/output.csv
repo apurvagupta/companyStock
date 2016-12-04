@@ -1,0 +1,6 @@
+Stock_Id,Side,Company,Quantity,Status,Balance
+1,BUY,ABC,10,closed,0
+2,Sell,XYZ,15,closed,0
+3,Sell,ABC,13,open,3
+4,BUY,XYZ,10,closed,0
+5,BUY,XYZ,8,open,3

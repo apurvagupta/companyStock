@@ -1,0 +1,5 @@
+[{"Stock_Id":"1", "Side":"BUY", "Company":"ABC", "Quantity":"10","Status":"open", "Balance":"2"},
+{"Stock_Id":"2", "Side":"Sell", "Company":"XYZ","Quantity":"15", "Status":"open", "Balance":"2"},
+{"Stock_Id":"3", "Side":"Sell", "Company":"ABC", "Quantity":"8", "Status":"closed", "Balance":"0"},
+{"Stock_Id":"4", "Side":"BUY", "Company":"XYZ", "Quantity":"12","Status":"closed", "Balance":"0"},
+{"Stock_Id":"5", "Side":"BUY", "Company":"XYZ", "Quantity":"1", "Status":"closed", "Balance":"0"}]
